@@ -7,8 +7,8 @@
 ### Description
 Simple HTML & CSS, rendering a pseudo-blog format.
 
-
-
+### Screenshot:
+![Help Ticket](img/screenshot.png?raw=true)
 
 
 
